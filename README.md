@@ -2,11 +2,11 @@
 
 본 문서는 Vault Radar CLI의 몇 가지 사용 사례를 다루고 있습니다.
 
-[설치](./README_ko.md#설치) 및 [설정](./README_ko.md#설정) 단계를 수행한 후, 각 [목록](./README_ko.md#목록) 폴더 안에서 action.sh을 실행해주새요.
+[설치](./README.md#설치) 및 [설정](./README.md#설정) 단계를 수행한 후, 각 [목록](./README.md#목록) 폴더 안에서 action.sh을 실행해주새요.
 
 ## 번역본
 
-- Korean : [open](./docs/README_ko.md)
+- Korean : [open](./docs/README.md)
 - English : [open](./docs/README_en.md)
 
 ## 설치
@@ -17,7 +17,7 @@ brew install vault-radar
 
 ## 설정
 
-전체 [목록](./README_ko.md#목록) 실습을 위해 HCP(HashiCorp Cloud Platform)에서 2가지를 생성해야 합니다.
+전체 [목록](./README.md#목록) 실습을 위해 HCP(HashiCorp Cloud Platform)에서 2가지를 생성해야 합니다.
 
 1. HCP Vault Radar 생성하기
 2. HCP IAM CLI Credentials 발급받기

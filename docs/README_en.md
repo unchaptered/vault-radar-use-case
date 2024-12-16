@@ -4,7 +4,7 @@ This document covers several use cases for the Vault Radar CLI.
 
 After following the [installation](./README_en.md#installation) and [configuration](./README_en.md#configuration) steps, run action.sh inside each [list-up](./README_en.md#list-up).
 
-## 번역본
+## Translation
 
 - Korean : [open](./README_ko.md)
 - English : [open](./README_en.md)

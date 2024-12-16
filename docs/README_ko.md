@@ -1,4 +1,4 @@
-# Vaault Radar use caes
+# Vaault Radar Usecase
 
 본 문서는 Vault Radar CLI의 몇 가지 사용 사례를 다루고 있습니다.
 
